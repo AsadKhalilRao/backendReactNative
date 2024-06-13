@@ -1,3 +1,3 @@
 # backendReactNative
-Download the all
+Download the all.
 Insatall node modules.
